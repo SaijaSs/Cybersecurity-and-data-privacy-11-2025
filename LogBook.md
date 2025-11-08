@@ -5,3 +5,4 @@
 | 1.11.2025 | 40 min | Cisco Introduction to Cybersecurity | Tehty osiot 2.2.3 - 2.5 |
 | 4.11.2025 | 1 h 30 min | Cisco Introduction to Cybersecurity | Tehty osiot 2.5 - 3.6|
 | 5.11.2025 | 35 min | Git repo | Luotu GitRepo, LogBook-tiedosto ja siirretty tiedot logbookiin muistiinpanoista. Palautettu logbook-linkki |
+| 8.11.2025 | 2 h 5 min | Cisco Introduction to Cybersecurity | Tehty osiot 4.0 - 5.3 sekä Final exam |
